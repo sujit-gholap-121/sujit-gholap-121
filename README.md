@@ -39,7 +39,7 @@ Here are some ideas to get you started:
  <p align="center">
   <a href="https://github.com/sujit-gholap-121">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=sujit-gholap-121&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true&hide=issues"/>
-   <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujot-gholap-121&layout=compact&langs_count=16&hide_border=true&theme=dark#gh-dark-mode-only"/>
+   <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujit-gholap-121&layout=compact&langs_count=16&hide_border=true&theme=dark#gh-dark-mode-only"/>
   
 </p>
 
